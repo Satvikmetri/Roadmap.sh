@@ -1,6 +1,22 @@
-Key requirements for this project:
+# Satvik B Metri - Personal CV
 
-Semantic HTML: Use appropriate HTML tags to structure your CV.
-SEO Meta Tags: Include essential meta tags for SEO.
-Open Graph (OG) Tags: Add OG tags for better social media sharing
+A responsive and semantic CV web page showcasing my skills, education, and projects. This project is built with clean and accessible HTML, following best practices for structure, SEO, and social media optimization.
+---
+
+## 📄 Features
+- **Semantic HTML**: Proper use of semantic tags like `<header>`, `<main>`, `<section>`, and `<footer>` for better readability and accessibility.
+- **SEO Optimization**: Meta tags for improving search engine visibility.
+- **Open Graph (OG) Tags**: Enhanced social media previews when the page is shared.
+- **Favicon**: A personalized favicon for the webpage.
+- **Responsive Structure**: Well-structured HTML for future CSS styling and responsiveness.
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**: Semantic and clean markup.
+- **Meta Tags**: For SEO and Open Graph integration.
+
+---
+
+
 
