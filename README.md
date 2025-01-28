@@ -21,6 +21,8 @@ Frontend development is a dynamic and exciting field that requires constant lear
 3. Focus on writing clean, reusable, and scalable code.
 
 ---
-project 1 
-single-page-CV:https://bucolic-cactus-f7aca4.netlify.app/
-https://roadmap.sh/projects/single-page-cv
+**project 1** 
+1) single-page-CV:https://bucolic-cactus-f7aca4.netlify.app/
+    https://roadmap.sh/projects/single-page-cv
+
+2)
