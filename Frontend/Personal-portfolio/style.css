@@ -30,3 +30,10 @@ a {
     align-items: center;
     justify-content: center;
   }
+  .grid-item {
+    outline: 2px solid black; 
+  }
+  #about{
+    display: flex;
+  }
+  
