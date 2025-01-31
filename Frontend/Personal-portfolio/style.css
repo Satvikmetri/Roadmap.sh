@@ -89,15 +89,15 @@ footer {
     nav ul li{
         margin-bottom: 10px;
     }
-    .grid-container{
-        display:flex;
-        flex-direction: column;
-    }
     .nodisplay{
         display: none !important;
     }
     #articles{
         text-align: center;
+    }
+    .grid-container{
+        display:flex;
+        flex-direction: column;
     }
     .grid-item{
         background-color: lightskyblue;
