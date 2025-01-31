@@ -94,7 +94,7 @@ footer {
         flex-direction: column;
     }
     .nodisplay{
-        display: none;
+        display: none !important;
     }
     #articles{
         text-align: center;
