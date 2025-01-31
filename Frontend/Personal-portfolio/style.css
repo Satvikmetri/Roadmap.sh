@@ -99,5 +99,7 @@ footer {
     #articles{
         text-align: center;
     }
-
+    .grid-item{
+        background-color: lightskyblue;
+    }
 }

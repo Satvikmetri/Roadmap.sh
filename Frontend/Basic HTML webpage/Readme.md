@@ -10,13 +10,11 @@ This is a basic HTML web page project created using fundamental web technologies
 
 You can view the live version of this web page by clicking the link below:
 
-[Live Demo](https://playful-swan-6a1000.netlify.app/)
+(https://playful-swan-6a1000.netlify.app/)
 
 ## Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript (ES6)
 
 ## Contributing
 
