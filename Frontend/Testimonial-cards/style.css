@@ -1,0 +1,146 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.card {
+    padding: 20px;
+}
+
+.larry-card {
+    height: 250px;
+    width: 350px;
+    display: inline-block;
+}
+
+#triangle {
+    font-size: 35px; 
+    color: rgb(53, 53, 59);
+    position: relative;
+    bottom: 75px;
+    right: 255px;
+}
+
+#larry-image {
+    height: 70px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+.larry-card p {
+    background-color:rgb(53, 53, 59);
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.larry-card div {
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+    bottom: 15px;
+}
+
+.larry-card span {
+    font-size: 16px;
+}
+
+.patrick-card {
+    height: 230px;
+    width: 350px;
+    border: solid;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+#patrick-image {
+    height: 70px;
+    width: 75px;
+    border-radius: 70px;
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+}
+
+.patrick-card div {
+    display: inline-block;
+    position: relative;
+    bottom: 32px;
+    margin-left: 20px;
+}
+
+.patrick-card span {
+    font-size: 16px;
+}
+
+/* ------------Mr. Turner -------------*/
+
+.mr-turner-card {
+    height: 300px;
+    width: 760px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-gap: 10px;
+}
+
+#turner-image {
+    border-radius: 20px;
+    display: inline-block;
+    width: 100%;
+}
+
+.mr-turner-card div {
+    display: inline-block;
+}
+
+#turner-text {
+    background-color: black;
+    color:white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#turner-name {
+    font-size: 30px;
+}
+
+#turners-dad {
+    color:rgb(160, 160, 160);
+    font-size: 18px;
+}
+
+.bottom-card {
+    width: 725px;
+    height: 220px;
+    margin: 10px 20px;
+    padding: 20px;
+    border: solid;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.bottom-card p {
+    padding: 10px 25px;
+}
+
+.other-img {
+    width: 50px;
+    border-radius: 50px;
+    opacity: 0.4;
+    margin: 10px;
+}
+
+#bart-img {
+    height: 80px;
+    border-radius: 50px;
+    margin: 5px 10px;
+}
+
+.arrow {
+    position: relative;
+    bottom: 30px;
+    margin: 20px;
+    font-size: 30px;
+}
